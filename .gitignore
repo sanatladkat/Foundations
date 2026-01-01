@@ -1,0 +1,17 @@
+
+# Standard Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# Large Data & Weights
+/data/
+/models/
+*.tif
+*.tiff
+*.shp
+*.shx
+*.nc
+*.h5
+*.pth
